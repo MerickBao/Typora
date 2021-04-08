@@ -1,2 +1,2 @@
 # Typora
-imagebed
+blog imagebed
